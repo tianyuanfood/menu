@@ -1,6 +1,6 @@
 baseURL = 'https://tianyuanfood.github.io/'
 languageCode = 'zh-tw'
-title = '恬園自助餐 ( 盒飯 / 便當 )'
+title = ' 恬園自助餐｜便當｜外帶｜外送｜團體訂單 '
 theme = 'hugo-creative-portfolio-theme'
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -13,7 +13,7 @@ publishDir = "docs"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "恬園自助餐 ( 盒飯 / 便當 )"
+  description = "恬園自助餐｜便當｜外帶｜外送｜團體訂單"
   copyright = "&copy;2022 tianyuanfood"
   sidebarAbout = [
     "提供外帶與團體訂單外送服務。",
