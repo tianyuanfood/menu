@@ -2,42 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tianyuanfood.github.io/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/restaurants/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E4%B8%89%E8%8A%9D%E4%BE%BF%E7%95%B6/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E4%B8%89%E8%8A%9D%E4%BE%BF%E7%95%B6%E5%BA%97/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E4%B8%89%E8%8A%9D%E8%91%B7%E7%B4%A0%E9%A4%90%E5%BB%B3/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E4%BE%BF%E7%95%B6/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E6%81%AC%E5%9C%92%E8%87%AA%E5%8A%A9%E9%A4%90/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tianyuanfood.github.io/tags/%E8%87%AA%E5%8A%A9%E9%A4%90/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://tianyuanfood.github.io/menu/</loc>
     <lastmod>2022-12-03T21:05:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://tianyuanfood.github.io/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
+    <loc>https://tianyuanfood.github.io/tags/%E8%91%B7%E7%B4%A0%E9%A4%90%E5%BB%B3/</loc>
+    <lastmod>2022-12-03T21:05:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tianyuanfood.github.io/about/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://tianyuanfood.github.io/tags/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://tianyuanfood.github.io/tags/%E4%B8%89%E8%8A%9D%E4%BE%BF%E7%95%B6%E5%BA%97/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://tianyuanfood.github.io/tags/%E4%B8%89%E8%8A%9D%E8%91%B7%E7%B4%A0%E9%A4%90%E5%BB%B3/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://tianyuanfood.github.io/tags/%E6%81%AC%E5%9C%92%E8%87%AA%E5%8A%A9%E9%A4%90/</loc>
-    <lastmod>2022-11-05T21:05:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://tianyuanfood.github.io/tags/%E8%91%B7%E7%B4%A0%E9%A4%90%E5%BB%B3/</loc>
     <lastmod>2022-11-05T21:05:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
